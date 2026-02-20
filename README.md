@@ -79,8 +79,7 @@ Após subir os containers:
 
 ## 📌 Funcionalidades
 
-- Cadastro de produtos
-- Cadastro de categorias
+- Cadastro de produtos e categorias
 - Listagem de produtos e categorias
 - Atualização de produtos e categorias
 - Remoção de produtos e categorias
